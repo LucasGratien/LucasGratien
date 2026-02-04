@@ -2,7 +2,7 @@
 
 ### Developer Full Stack
 
-- 🔭 I’m currently working on [My portfolio](http://www.gratien-lucas.fr)
+- 🔭 I’m currently working 
 
 - 🌱 I’m currently learning **Java, Spring Boot**
 
